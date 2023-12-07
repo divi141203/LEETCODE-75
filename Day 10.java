@@ -1,5 +1,6 @@
 class Solution {
-    public void moveZeroes(int[] nums) {
+    public void moveZeroes(int[] nums) 
+    {
     int n = nums.length;
     int i = 0, j = -1;
     while(i < n )
